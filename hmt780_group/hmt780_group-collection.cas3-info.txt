@@ -1,0 +1,3 @@
+Species_core	UNKNOWN_SOURCE	#870000
+Accessory	UNKNOWN_SOURCE	#f2f2f2
+Singletons	UNKNOWN_SOURCE	#db9e04
